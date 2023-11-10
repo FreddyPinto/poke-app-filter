@@ -14,8 +14,8 @@ This is a React project that displays a list of Pokémon obtained from the PokeA
 
 To install the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/<username>/<repository>.git`
-2. Navigate to the project directory: `cd <repository>`
+1. Clone the repository: `git clone https://github.com/FreddyPinto/poke-app-filter.git`
+2. Navigate to the project directory: `cd poke-app-filter`
 3. Install the dependencies: `npm install`
 
 ## Usage
